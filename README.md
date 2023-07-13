@@ -1,12 +1,11 @@
-# Terraform init
-terraform init
+# Initialize working directory
+{terraform init}
 
-# Terraform plan
+# Validate the changes
 terraform plan
 
-# Terraform apply
+# Deploy the changes
 terraform apply
 
-# Terraform destroy
+# Remove the resources created.
 terraform destroy
-
