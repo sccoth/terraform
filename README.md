@@ -1,1 +1,2 @@
-# terraform
+# Terraform init
+terraform init
