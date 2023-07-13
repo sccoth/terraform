@@ -1,8 +1,8 @@
 # Configure AWS access keys
 ```
-[default]\
-aws_access_key_id = <your_access_key_id>\
-aws_secret_access_key = <your_secret_access_key\
+[default]
+aws_access_key_id = <your_access_key_id>
+aws_secret_access_key = <your_secret_access_key
 ```
 # Initialize the directory
 ```
