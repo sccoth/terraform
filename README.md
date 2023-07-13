@@ -1,8 +1,8 @@
-# Initialize working directory
+# Initialize the directory
 terraform init
 # Validate the changes
 terraform plan
 # Deploy the changes
 terraform apply
-# Remove the resources created.
+# Remove the resources created
 terraform destroy
